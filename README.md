@@ -1,4 +1,4 @@
-# Automatic detection and-georeferenced sightings of the Green Iguana in Panama
+# Automatic detection and georeferenced sightings of the Green Iguana in Panama
 <img width="503" height="496" alt="iguanapp" src="https://github.com/user-attachments/assets/4d4d776e-0b61-45ca-83b8-91b245b1f59f" />
 
 This project consists of a fairly simple desktop application that functions as an MVP (Minimum Viable Product) for a much larger idea. Which consists of building an open database of georeferenced data on the distribution of the species and possible threatened areas
