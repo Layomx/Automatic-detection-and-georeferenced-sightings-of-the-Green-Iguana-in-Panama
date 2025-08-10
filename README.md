@@ -9,5 +9,5 @@ The project served as a new experience for me, a source of knowledge, and practi
 - Improve the graphical interface
 - Set up a central database for sightings
 - Apply different forms of data analysis and prediction models
-
-I would like the project to be a success.
+- 
+I would also like the project to serve as a unique practice for my data skills
